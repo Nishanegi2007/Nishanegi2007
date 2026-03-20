@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nisha 👋
 
-<!--
-**Nishanegi2007/Nishanegi2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 1st Year Student  
+💻 Frontend Developer | Learning DSA  
 
-Here are some ideas to get you started:
+## Skills
+- HTML, CSS, JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Counter App
+- (upcoming) Stopwatch
+
+## Currently Learning
+- Data Structures & Algorithms
+- JavaScript Projects
