@@ -9,7 +9,8 @@
 
 ## Projects
 - Counter App
-- (upcoming) Stopwatch
+- Stopwatch
+- to-do list(upcoming)
 
 ## Currently Learning
 - Data Structures & Algorithms
