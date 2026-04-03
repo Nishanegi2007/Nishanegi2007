@@ -10,6 +10,7 @@
 ## Projects
 - Counter App
 - Stopwatch
+- Sales Data Analysis (python)
 - to-do list(upcoming)
 
 ## Currently Learning
