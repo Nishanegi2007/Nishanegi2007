@@ -11,7 +11,8 @@
 - Counter App
 - Stopwatch
 - Sales Data Analysis (python)
-- to-do list(upcoming)
+- to-do list
+- weather app (with react)
 
 ## Currently Learning
 - Data Structures & Algorithms
