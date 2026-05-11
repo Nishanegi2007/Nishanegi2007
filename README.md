@@ -12,7 +12,7 @@
 - Stopwatch
 - Sales Data Analysis (python)
 - to-do list
-- weather app (with react)
+- weather app (with react)(upcoming)
 
 ## Currently Learning
 - Data Structures & Algorithms
