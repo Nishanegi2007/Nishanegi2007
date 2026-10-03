@@ -1,5 +1,5 @@
 👋 Hey, I'm Nisha!
-B.Tech CSE Student • Frontend Developer • DSA Explorer • Builder
+B.Tech CSE Student • Full Stack Devloper • DSA Explorer • Builder
 
 💡 I turn ideas into code, break things, fix them, and somehow learn something new every time.
 
