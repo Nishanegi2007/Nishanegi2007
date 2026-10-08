@@ -41,9 +41,7 @@ const nisha = {
         "JavaScript",
         "React",
         "Node.js",
-        "DSA",
-        "MongoDB"
-
+        "DSA"
     ],
 
     mindset: "Learn → Build → Break → Fix → Repeat 🚀",
@@ -102,6 +100,24 @@ Currently exploring the world of **full-stack development** while strengthening 
 * 🌐 Designed with accessibility and low-infrastructure environments in mind
 
 **Tech:** `HTML` `CSS` `JavaScript` `Node.js` `OpenWeather API` `Gemini`
+
+---
+
+### 💰 Pocketwise — Expense Tracker
+
+**A full-stack personal finance tracker for managing expenses, budgets, and spending habits.**
+
+* 🔐 User registration, login & logout
+* 💸 Add, edit and delete expenses
+* 📅 Calendar-based expense tracking
+* 🎯 Create and manage monthly budgets
+* 🏷️ Reusable expense categories
+* 📊 Monthly expense & savings overview
+* 🍪 JWT-based authentication with secure password hashing
+
+**Tech:** `React` `Vite` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `bcryptjs`
+
+🔗 **[View Project](https://github.com/Nishanegi2007/Pocketwise-Expense-Tracker)**
 
 ---
 
