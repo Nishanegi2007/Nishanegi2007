@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4f46e5&height=220&section=header&text=Hey%20there,%20I'm%20Nisha%20👋&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4cccc,50:312e81,100:4f46e5&height=220&section=header&text=Hey%20there,%20I'm%20Nisha%20👋&fontSize=40&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" />
 
 ### 💻 B.Tech CSE Student • Frontend Developer • Full-Stack Explorer
 
@@ -233,6 +233,6 @@ I'm always interested in **building projects, learning new technologies, solving
 
 ### ✨ Build things. Break things. Learn things. Repeat. ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:312e81,100:0f172a&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f4cccc,50:312e81,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
